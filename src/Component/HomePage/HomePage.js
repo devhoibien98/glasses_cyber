@@ -5,7 +5,7 @@ import React from "react";
 const HomePage = () => {
   return (
     <Container className="mt-4">
-      <h1 className="text-center">Welcome to My Glasses Toore</h1>
+      <h1 className="text-center">Welcome to My Glasses Store</h1>
       <ul
         style={{ listStyle: "none" }}
         className="d-flex justify-content-around"
